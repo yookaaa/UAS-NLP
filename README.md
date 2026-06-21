@@ -377,13 +377,15 @@ print(f'Total dokumen: {vs._collection.count()}')
 | | |
 |---|---|
 | **Nama** | Eka Maulana Hidayat |
-| **NIM** | [NIM] |
-| **Kelas** | [Kelas NLP] |
+| **NIM** | 233510306 |
+| **Kelas** | B |
 | **Mata Kuliah** | Natural Language Processing (NLP) |
 
 ---
+Screenshoot
+<img width="1919" height="996" alt="Screenshot 2026-06-21 154429" src="https://github.com/user-attachments/assets/98a0c9bd-022a-4446-a3ca-ed1ba450f70e" />
+<img width="1919" height="955" alt="Screenshot 2026-06-21 155500" src="https://github.com/user-attachments/assets/2a2f723b-5f77-4d02-b5fa-e0e50c4c4318" />
 
-<div align="center">
-
+---
 **🍳 Dibuat untuk UAS Mata Kuliah NLP**  
 *Menggunakan LangChain · LangGraph · LangSmith · Ollama*
